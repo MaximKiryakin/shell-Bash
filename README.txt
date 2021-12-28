@@ -6,6 +6,7 @@ The conjunction variant was implemented. The program supports the following oper
 - Inpit / Output redirection
 -conveyor
 -execution in the background
+-execution in brackets
 
 Use make command to compile
 Use the command ./solution to run
