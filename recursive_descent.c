@@ -167,7 +167,6 @@ int conveyor(struct node *my_struct, struct token*** pp_token_mas, int* token_ma
     enum analise_tokens temp_token = p_token_mas[*token_mas_index]->token;
     if(temp_token == PIPE){
         (*token_mas_index)++;
-        //создаю структуру
         struct node *pipe_struct = (struct node*)malloc(sizeof(struct node));
         struct_init(pipe_struct);
         my_struct->pipe = pipe_struct;
