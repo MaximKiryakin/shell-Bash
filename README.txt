@@ -1,4 +1,5 @@
 Shell program
+The program is based on the recursive descent method
 The task was completed by Kiryakin Maxim, student of group 207. 
 Date: 12/18/2021
 
